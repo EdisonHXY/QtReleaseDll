@@ -1,2 +1,3 @@
 # qt_library_runtime
 qt运行库，实现发布的程序与qt自带的动态库分离
+在Release中下载安装包并安装即可
